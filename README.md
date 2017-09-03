@@ -16,7 +16,7 @@ python tree.py $1 $2 $3 ...
 
 ### 举例
 
-对于： https://github.com/ecomfe/san/tree/master/example/todos-esnext
+对于： [san-todos-esnext](https://github.com/ecomfe/san/tree/master/example/todos-esnext)
 这个项目
 
 使用：
